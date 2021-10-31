@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+<html lang="fr">
+	<h1>HOUDA EL AFIFE</h1>
+	<img src="houdamini.jpg" alt="cv" />
+<h2> Informations personnelles </h2>
+	<ul>
+		<li>Nom:  EL AFIFE </li>
+		<li> Prenom : Houda </li>
+		<li>Adresse : RABAT </li>
+		<li> Age : 19 ans </li>
+	</ul>
+	
+<h2>Objectif profesionnel</h2>
+<p>
+	Intéressée par le domaine de l'informatique et tout ce qui est lié au developpement des logiciels, j'ai pu m'y introduire en les  découvrant durant ma formation à l'Ecole Mohammadia d'Ingénieurs de Rabat</p>
+<h2>Formation et Diplôme</h2>
+<ul>
+		<li>BAC science math A</li>
+		<li> 2 ans en classe prepa </li>
+		<li> Ingenieur en informatique EMI </li>
+</ul>
+<h2>Mes compétences</h2>
+<ul>
+		<li>maitrise de html et css </li>
+		<li> maitrise de lanage c , python et java </li>
+		<li> des bases en comtabilité et marketing</li>
+		<li> bonnnes connaissances en comptabilté</li>
+	</ul>
 
-You can use the [editor on GitHub](https://github.com/HOUDAElAF1/mon-cv-h/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h2>Mon expérience</h2>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	<ul>
+		<li>stage de 3 mois chez ocp </li>
+		<li> cheft de projet de realisation d'un systeme de gestion d'une banque ;</li>
+	</ul>
+<h2> Loisirs et Centres d'intêret</h2>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HOUDAElAF1/mon-cv-h/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+	<ul>
+		<li>Sport</li>
+		<li> Gaming </li>
+		<li> Literature</li>
+	</ul>
+	<footer>
+	<p><pre>                                                                                                                                                    Edité par : Houda</pre></p>
+            <p><pre>                                                                                                                                                    Dernière Mise à jour : 29/10/2021</pre></p>
+            <p><pre>                                                                                                                                                    Copyright ©2021</pre></p>
+            </footer>
